@@ -7,7 +7,8 @@ package passwordstrength;
 import java.util.Scanner;
 
 /**
- * Client class for our password 
+ * Client class for our password
+ * // Code is similar to Mehmet Ozen but a little different
  * @author Robert
  */
 public class PasswordClient {
