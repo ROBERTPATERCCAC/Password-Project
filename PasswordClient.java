@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  * Client class for our password
  * // Code is similar to Mehmet Ozen but a little different
+ * // I might still add more to my code
  * @author Robert
  */
 public class PasswordClient {
